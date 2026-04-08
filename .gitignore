@@ -1,0 +1,7 @@
+.DS_Store
+.pio/
+.venv/
+.vscode/
+design_candidates/
+third_party_assets/raw/
+third_party_assets/extracted/
