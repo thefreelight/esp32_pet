@@ -131,3 +131,5 @@ This build currently assumes the Spotpear board wiring:
 - LCD RST: `GPIO21`
 - LCD BL: `GPIO22`
 - RGB LED: `GPIO8`
+## JARVIS MVP smoke
+OnePunch verified this repository through the real GitHub archive, sandbox execution, approval, and pull-request path.
